@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Saini</h1>  
 <h3 align="center">I’m a Staff Software Engineer and an Aspiring Speaker with a love for the ever-evolving landscape of web development and JavaScript.</h3>  
   
-<p align="left"> <a href="https://twitter.com/_amitsainii" target="blank"><img src="https://img.shields.io/twitter/follow/_amitsainii?logo=twitter&style=for-the-badge" alt="_amitsainii" /></a> </p>  
-  
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/_amitsainii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_amitsainii" height="30" width="40" /></a>  
