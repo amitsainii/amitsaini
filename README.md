@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Saini</h1>
 <h3 align="center">
-  I’m a Staff Software Engineer and an Aspiring Speaker with a love for
+  I’m a frontend focussed SDE-3 and an Aspiring Speaker with a love for
   the ever-evolving landscape of web development and JavaScript.
 </h3>
 
